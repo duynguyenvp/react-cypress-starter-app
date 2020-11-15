@@ -1,8 +1,8 @@
-**/webpack/*
 node_modules
 build
 webpack
 public
-**/public/*
-**/bin/*
 src/assets
+.nyc_output
+coverage
+cypress

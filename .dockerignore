@@ -2,6 +2,9 @@ node_modules
 .git
 .gitignore
 build
+.nyc_output
+coverage
+cypress
 package-lock.json
 yarn.lock
 yarn-error.log
